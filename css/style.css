@@ -295,7 +295,7 @@ li {
   -ms-grid-row-span: 7;
   grid-row: 4/11;
   background-image: url(../img/haicut1.jpg);
-  background-position: center;
+  background-position: 50% 30%;
   background-size: cover;
   -webkit-transform: translateY(100%);
           transform: translateY(100%);
